@@ -1,9 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'lj-Inventory'
-version '1.1'
-
 shared_scripts {
 	'config.lua',
 	'@qb-weapons/config.lua'
